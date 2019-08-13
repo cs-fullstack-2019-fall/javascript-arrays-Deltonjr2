@@ -1,5 +1,8 @@
 # JavaScript_Set11b_Array
 
+You've got to push earlier if you continue to have issues pushing you code.
+Score : 0 points 
+
 ```
 concat()	Joins two or more arrays, and returns a copy of the joined arrays
 
